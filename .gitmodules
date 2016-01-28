@@ -1,0 +1,6 @@
+[submodule "FXAS21002C_Arduino_Library"]
+	path = FXAS21002C_Arduino_Library
+	url = https://github.com/udooboard/FXAS21002C_Arduino_Library
+[submodule "fxos8700cq-arduino"]
+	path = fxos8700cq-arduino
+	url = https://github.com/UDOOboard/fxos8700cq-arduino
